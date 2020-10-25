@@ -1,0 +1,18 @@
+body{
+
+background-color: white;
+font-family: 'Poiret One',cursive}
+h1{margin-bottom: .9rem; line-height: 2
+font-weight: 400;
+font-style: normal; text-decoration-color: whites}
+h6{font-size: 1.5rem; padding-bottom: 50px}
+h3{font-size: 3rem; padding-top: 20px}
+h4{font-size: 2rem; padding-top: 20px}
+p{font-size: 1.5rem; padding-bottom: 40px}
+.padding-top{
+	padding-top:50px;
+}
+
+h5{font-size: 2rem; padding-top: 40px}
+h7{font-size: 2rem; padding-top: 40px}
+img{padding-left: 40px}
